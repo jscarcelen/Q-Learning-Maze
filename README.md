@@ -1,6 +1,6 @@
 # MAZE SOLVED WITH Q-LEARNING | MATLAB CODE
 
-$ By Jonathan Sanz
+            By Jonathan Sanz
 
 The aim of this code is solving a randomly generated square maze (dimension n) using a Q-Learning algorithm involving an epsilon greedy policy.
 
