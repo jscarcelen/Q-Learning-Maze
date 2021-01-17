@@ -1,4 +1,4 @@
-# maze_QLearning
+# MAZE SOLVED WITH Q-LEARNING | MATLAB CODE
 The aim of this code is solving a randomly generated square maze (dimension n) using a Q-Learning algorithm involving an epsilon greedy policy.
 
 The user is capable of defining 3 parameters: 
